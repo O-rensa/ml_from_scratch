@@ -1,15 +1,15 @@
 # ml_from_scratch
 
 ## What the project does?
--> The purpose of this project is for me (O-rensa) to be familiar with the syntax of zig and learn a little bit about Machine Learning.
--> The project uses zig for ML objects implementation and a web app(HTML - CSS - JAVASCRIPT) for GUI.
+-> The purpose of this project is for me (O-rensa) to be familiar with the syntax of zig and learn a little bit about Machine Learning. <br/>
+-> The project uses zig for ML objects implementation and a web app(HTML - CSS - JAVASCRIPT) for GUI. <br/>
 -> This project uses API's for interaction between zig and web app.
 
 ## Why not use Zig's GUI libraries?
--> I got a day job and I learning some libraries most of the times makes me sleepy.
+-> I got a day job and I learning some libraries most of the times makes me sleepy. 
 
 ## Why not use Web Assembly?
--> I wanna do this a simple as possible based on my current skills.
+-> I wanna do this a simple as possible based on my current skills. <br/>
 -> I don't know how to use Web Assembly.
 
 ## Why the project is useful?
@@ -22,6 +22,6 @@
 -> Not my problem.
 
 ## Who maintains and contributes to the project?
--> Only me.
--> I got no plans of maintaining this after it's finished. So DON'T BOTHER!!!
+-> Only me. <br/>
+-> I got no plans of maintaining this after it's finished. So DON'T BOTHER!!! <br/>
 -> I doubt I would even finish this.
