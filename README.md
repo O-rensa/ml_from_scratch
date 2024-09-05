@@ -3,7 +3,9 @@
 ## What the project does?
 -> The purpose of this project is for me (O-rensa) to be familiar with the syntax of zig and learn a little bit about Machine Learning. <br/>
 -> The project uses zig for ML objects implementation and a web app(HTML - CSS - JAVASCRIPT) for GUI. <br/>
--> This project uses API's for interaction between zig and web app.
+-> This project uses API's for interaction between zig and web app. <br />
+-> This project is based on [this youtube video series](https://www.youtube.com/watch?v=fa3BE_VwyS4&list=PLB0Tybl0UNfYe9aJXfWw-Dw_4VnFrqRC4). <br/>
+-> Give credit to whom it belongs. Subscribe to his [channel](https://www.youtube.com/@Radu).
 
 ## Why not use Zig's GUI libraries?
 -> I got a day job and I learning some libraries most of the times makes me sleepy. 
