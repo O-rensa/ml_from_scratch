@@ -27,3 +27,7 @@
 -> Only me. <br/>
 -> I got no plans of maintaining this after it's finished. So DON'T BOTHER!!! <br/>
 -> I doubt I would even finish this.
+
+## Where did the data(from data folder) come from?
+-> The data is not owned by me. <br/>
+-> Data came from this [source](https://github.com/gniziemazity/drawing-data/tree/main) <br/>
