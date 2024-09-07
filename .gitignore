@@ -1,2 +1,6 @@
 ## node modules
 /node/node_modules
+
+## zig
+/zig/.zig-cache
+/zig/output
